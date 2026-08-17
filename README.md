@@ -56,4 +56,4 @@ Material changes will be reflected here with an updated date, and in the
 extension's store listing.
 
 ## Contact
-<your email or GitHub issues URL>
+hongyifeng718@gmail.com
